@@ -19,6 +19,8 @@
 | 1    | sandbox  | 前端 | [sandbox](/sandbox/) | [@不灵](https://github.com/x6eull) |
 | 2    | oauth    | 后端 | [oauth](/oauth/)     | [@不灵](https://github.com/x6eull) |
 
+面试者需选择不少于一道题目并完成。
+
 ## 提交
 在准备阶段结束前，您需要将您的成果上传至个人GitHub(但不要上传node_modules)，并在**本仓库**发一个issue([示例](https://github.com/QSCTech/2023-autumn-round-two/issues/1))。issue的标题为您的姓名，内容需包含：
 - 您选择作答的题目。
